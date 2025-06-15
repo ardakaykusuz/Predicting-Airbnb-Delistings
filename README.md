@@ -1,1 +1,3 @@
 # Predicting-Airbnb-Delistings
+Airbnb is a widely recognized online platform and hospitality marketplace that offers a diverse range of accommodations, including apartments, houses, and individual rooms listed by hosts. The platform has revolutionized how people find and book accommodations, providing unique and personalized lodging experiences across the globe. In this project, our primary objective is to develop a sophisticated Natural Language Processing (NLP) pipeline capable of predicting whether a listed property will be unlisted in the upcoming quarter. By leveraging advanced NLP techniques, we aim to create a robust model that can accurately forecast the unlisting status of properties on Airbnb. 
+Please see the project description files. 
